@@ -1,0 +1,27 @@
+{
+  "name": "passgen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nicklatkovich/passgen.git"
+  },
+  "keywords": [
+    "password",
+    "generator"
+  ],
+  "author": "NickLatkovich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicklatkovich/passgen/issues"
+  },
+  "homepage": "https://github.com/nicklatkovich/passgen#readme",
+  "dependencies": {
+    "bs58": "^4.0.1",
+    "sha256": "^0.2.0"
+  }
+}
